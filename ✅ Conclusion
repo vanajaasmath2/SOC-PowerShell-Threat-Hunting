@@ -1,0 +1,1 @@
+This project helped strengthen practical SOC analyst skills by simulating a real-world investigation of suspicious PowerShell execution. It demonstrated how attackers may abuse PowerShell for stealthy execution and how defenders can detect and analyze such behavior using SIEM and Windows logging.
