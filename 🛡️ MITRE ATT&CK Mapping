@@ -1,0 +1,5 @@
+| Technique                    | ID        |
+| ---------------------------- | --------- |
+| PowerShell                   | T1059.001 |
+| Obfuscated Files/Information | T1027     |
+| Ingress Tool Transfer        | T1105     |
